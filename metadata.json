@@ -1,1 +1,10 @@
-
+{
+ "id": "PROJECTNAME",
+ ↪
+ "title": "CLDF dataset derived from AUTHOR's \"SHORT
+ TITLE\" from YEAR",
+ "license": "CC-BY-4.0",
+ "url": "URL OF ORIGINAL DATA",
+ "citation": "CITATION IN TEXT FORM.",
+ "conceptlist": "CONCEPT_LIST_NAME"
+  }
