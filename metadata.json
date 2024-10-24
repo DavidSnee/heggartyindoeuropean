@@ -1,8 +1,7 @@
 {
- "id": "PROJECTNAME",
+ "id": "heggartyindoeuropean",
  ↪
- "title": "CLDF dataset derived from AUTHOR's \"SHORT
- TITLE\" from YEAR",
+ "title": "CLDF dataset derived from Heggarty et al.'s \"Language Trees of Indo-European Languages\" from 2023",
  "license": "CC-BY-4.0",
  "url": "URL OF ORIGINAL DATA",
  "citation": "CITATION IN TEXT FORM.",
